@@ -1,1 +1,1 @@
-Vitam Vas apina na web scrapping si vracia novu stranku zo odkazami na inout a taktiez textovy subor 
+Vitam Vas apina na web scrapping si vracia novu stranku z odkazami na input a taktiez textovy subor 
